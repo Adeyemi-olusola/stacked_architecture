@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib/ui/views/home copy/homw_view.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib/ui/views/home copy/homw_view.dart"
+        }
+    ]
+}
